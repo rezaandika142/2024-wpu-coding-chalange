@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// 13/366
+// 14/366
 // URL : https://www.codewars.com/kata/55cbd4ba903825f7970000f5
 
 // Grade book
