@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// 13/366
+// 15/366
 // URL : https://www.codewars.com/kata/576b93db1129fcf2200001e6
 
 // function sumArray(array) {
